@@ -126,3 +126,21 @@ color: black;
   padding: 20px;
 
 }
+
+/* Zebra Plecie Makramy */
+#czarownica-info {
+background: white;
+color: black;
+}
+
+#czarownica-info .czarownica-content {
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 10px;
+}
+
+#czarownica-info a {
+  color: black;
+    text-decoration: none;
+}
