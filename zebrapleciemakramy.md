@@ -17,12 +17,10 @@
   <header>
     <nav id="navbar">
       <div class="container">
-        <h4 class="logo"><a href="index.html">Lena Romul - oficjalna strona</a></h4>
+<h1 class="logo"><a href="zebrapleciemakramy.html">Zebra Plecie Makramy</a></h1>
         <ul>
-          <li><a href="index.html">Strona Główna</a></li>
-          <li><a href="about.html">Biografia</a></li>
-          <li><a href="zebrapleciemakramy.html">Zebra Plecie Makramy</a></li>
-          <li><a href="https://www.tworzsamodzielnie.pl">Twórz Samodzielnie - Kurs Online</a></li>
+          <li><a href="index.html">o autorce</a></li>
+          <li><a href="#">allegro</a></li>
         </ul>
       </div>
     </nav>
@@ -31,8 +29,12 @@
     <div class="container">
       <hr>
       <br>
-      <h1 class="l-heading"><I>Zebra Plecie Makramy</I></h1>
-      to makramy i plecionki na zamówienie. Na stronie prezentuje modele, które wykonuje i wysyłam w ciągu 5 dni roboczych. Można je zamówić na allegro lub indywidualnie poprzez kontakt mailowy: lenaromul@gmail.com
+      <h5><I>Zebra Plecie Makramy</I></h5>
+      to makramy i plecionki na zamówienie. Na stronie prezentuje modele, które wykonuje i wysyłam w ciągu 5 dni roboczych. Można je zamówić na allegro lub indywidualnie poprzez kontakt mailowy: lenaromul@gmail.com &hearts;
+      <br>
+      <br>
+      <h6> Zaplatane pozdrowienia,</h6>
+      Lena Romul
       <hr>
 
     </div>
@@ -47,13 +49,13 @@
         <br>
         <p>Na zdjęciu 60 cm x 30 cm;
           <br> kolory: granat, róż, jasnoniebieski
-          <p>
-            Rozmiar i kolory ustalamy indywidualnie.
+        <p>
+          Rozmiar i kolory ustalamy indywidualnie.
 
-            <br>Dostawa: do 5 dni roboczych
+          <br>Dostawa: do 5 dni roboczych
 
-            <br>Cena: 50 - 150 zł ( w zależności od rozmiaru)
-</p>
+          <br>Cena: 50 - 150 zł ( w zależności od rozmiaru)
+        </p>
         <h5 class="card-title">Zamów na <a href="https://www.karrot.pl/lenaromul" <button class="button"> <i class="fas fa-compact-disc"></i> allegro</button> </a></h5>
         <br>
         <hr>
@@ -70,12 +72,12 @@
         <br>
         <p>Na zdjęciach 30 cm długości makramy (rozmiar bez ogona); w środku doniczka 15 cm (średnica) x 15 cm (długość);
           <br> kolory: róż, granat
-          <p>
-            Rozmiar i kolory ustalamy indywidualnie.
+        <p>
+          Rozmiar i kolory ustalamy indywidualnie.
 
-            <br>Dostawa: do 5 dni roboczych
+          <br>Dostawa: do 5 dni roboczych
 
-            <br>Cena: 50 - 80 zł ( w zależności od rozmiaru)</p>
+          <br>Cena: 50 - 80 zł ( w zależności od rozmiaru)</p>
         <h5 class="card-title">Zamów na <a href="#" <button class="button"> <i class="fas fa-compact-disc"></i> allegro</button> </a></h5>
         <br>
         <hr>
@@ -93,19 +95,18 @@
         <br>
         <p>Na zdjęciu 20 cm x 20 cm;
           <br> kolory: beżowy, jasny brąz;
-          <p>
-            Rozmiar i kolory ustalamy indywidualnie.
+        <p>
+          Rozmiar i kolory ustalamy indywidualnie.
 
-            <br>Dostawa: do 5 dni roboczych
+          <br>Dostawa: do 5 dni roboczych
 
-            <br>Cena: 30 - 80 zł ( w zależności od rozmiaru)
-    </p>
+          <br>Cena: 30 - 80 zł ( w zależności od rozmiaru)
+        </p>
         <h5 class="card-title">Zamów na <a href="https://www.karrot.pl/lenaromul" <button class="button"> <i class="fas fa-compact-disc"></i> allegro</button> </a></h5>
         <br>
         <hr>
       </div>
     </section>
-
 
     <footer id="main-footer">
       <p>Lena Romul &copy; 2020</p>
