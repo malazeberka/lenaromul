@@ -36,12 +36,11 @@
     <p>Komponuję i produkuję muzykę od 2008 roku. Nagrałam 3 solowe płyty oraz kilkadziesiąt jako muzyk akompaniujący, producent i chórzystka. Gram na saksofonie, skrzypcach, instrumentach klawiszowych, gitarze basowej, ukulele, perkusji. Śpiewam. Tworzę muzykę
       elektroniczną pod pseudonimem Dj Little Zebra. Prowadzę kolektyw muzyczny Slavic Jazz Undeground, łączący muzykę słowiańską ze współczesną muzyką rozrywkową, oceniany przez recenzentów jako rewolucyjny projekt muzyczny (Wyborcza, Polskie Radio,
       Polityka, TOKFM).<br>
-<br>Często kooperuję artystycznie. Mam za sobą współpracę koncertową i studyjną z Wojtkiem Pilichowskim, Pablopavo, Majką Jeżowską, Kamilem Bednarkiem, Tabu, Leszkiem Biolikiem, Justyną Steczkowską, Januszem Radkiem. Stworzyłam oprawę muzyczną na galę rozdania Nagrody Literackiej NIKE w 2016 roku transmitowaną na żywo w TVN24. Nagrywałam płyty nominowane do nagrody Fryderyk.
+      <br>Często kooperuję artystycznie. Mam za sobą współpracę koncertową i studyjną z Wojtkiem Pilichowskim, Pablopavo, Majką Jeżowską, Kamilem Bednarkiem, Tabu, Leszkiem Biolikiem, Justyną Steczkowską, Januszem Radkiem. Stworzyłam oprawę muzyczną na galę rozdania Nagrody Literackiej NIKE w 2016 roku transmitowaną na żywo w TVN24. Nagrywałam płyty nominowane do nagrody Fryderyk.
       <br>
       <br>
       W wieku 19 lat jako jedyna kobieta w historii wygrałam główną nagrodę na Międzynarodowym Konkursie Jazz Juniors będąc liderem i kompozytorem utworów zespołu Lena Romul Quintet. Studiowałam muzykę jazzową na Akademii Muzycznej we
       Wrocławiu oraz w Studium Policealnym w Warszawie. Obecnie studiuję Muzykoterapię na Akademii Muzycznej w Łodzi.
-
 
       Jestem stypendystką Ministerstwa Kultury i Edukacji Narodowej. Stworzyłam Kurs Online uczący komponowania w duchu DIY „Muzyka - Twórz Samodzielnie”. Obecnie uczę muzyki w klasach podstawowych oraz w ramach lekcji
       indywidualnych.<br><br>
